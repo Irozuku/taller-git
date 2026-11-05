@@ -4,7 +4,7 @@ Repositorio de práctica para la actividad en parejas.
 
 ## Integrantes
 
-- (agregar aquí los nombres)
+- Emilio Díaz
 
 ## Nombre del equipo
 
